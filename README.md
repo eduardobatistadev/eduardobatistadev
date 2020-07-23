@@ -16,7 +16,7 @@
 - HTML/CSS
 
 ## :us: Linguas
-- Escrita: :white_medium_square: :white_medium_square: :white_check_mark: :white_medium_square: :white_medium_square:
+- Escrita: :white_large_square: :white_large_square: :white_check_mark: :white_large_square: :white_large_square:
 - Leitura: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_check_mark:
 - Fala: :white_medium_square: :white_medium_square: :white_check_mark: :white_medium_square: :white_medium_square:
 
