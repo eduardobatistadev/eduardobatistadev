@@ -11,6 +11,7 @@
 ## 📫 Contato
 - LinkedIn - [Eduardo Batista] (https://in.linkedin.com/in/deveduardo)
 - [![Gmail Badge](https://img.shields.io/badge/-eduardobatistadev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardobatistadev@gmail.com)](mailto:eduardobatistadev@gmail.com)
+- [![Linkedin Badge](https://img.shields.io/badge/-eduardodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardodev/)](https://www.linkedin.com/in/eduardodev/)
 
 
 ---
