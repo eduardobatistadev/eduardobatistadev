@@ -11,7 +11,12 @@
 ## 📫 Contato
 - [![Gmail Badge](https://img.shields.io/badge/-eduardobatistadev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardobatistadev@gmail.com)](mailto:eduardobatistadev@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-eduardodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deveduardo/)](https://www.linkedin.com/in/deveduardo/)
 
-:thumbsup: ## Competências
+## :muscle: Competências
+- Java
+- Spring Boot
+- Hibernate/JPA
+- Angular 9
+- HTML/CSS
 
 ---
 
