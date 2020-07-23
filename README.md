@@ -25,7 +25,4 @@
 
 ---
 
-/play drama
-
-
 ⭐️ From [eduardobatistadev](https://github.com/eduardobatistadev)
