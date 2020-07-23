@@ -11,4 +11,7 @@
 ## 📫 Contato
 - LinkedIn - [Eduardo Batista] (https://in.linkedin.com/in/deveduardo)
 
+
+---
+
 ⭐️ From [eduardobatistadev](https://github.com/eduardobatistadev)
