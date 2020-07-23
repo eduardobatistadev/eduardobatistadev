@@ -15,6 +15,8 @@
 - Angular 9
 - HTML/CSS
 
+## :linguage:
+
 ## 📫 Contato
 - [![Gmail Badge](https://img.shields.io/badge/-eduardobatistadev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardobatistadev@gmail.com)](mailto:eduardobatistadev@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-eduardodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deveduardo/)](https://www.linkedin.com/in/deveduardo/)
 
