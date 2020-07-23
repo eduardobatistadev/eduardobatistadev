@@ -16,7 +16,7 @@
 - HTML/CSS
 
 ## :flags: Inglês
-- :us:Escrita: :white_large_square: :white_large_square: :white_check_mark: :white_large_square: :white_large_square:
+- Escrita: :white_large_square: :white_large_square: :white_check_mark: :white_large_square: :white_large_square:
 - Leitura: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_check_mark:
 - Fala:   :white_large_square: :white_large_square: :white_check_mark: :white_large_square: :white_large_square:
 
