@@ -12,7 +12,7 @@
 - Java
 - Spring Boot
 - Hibernate/JPA
-- Angular 9
+- Angular
 - HTML/CSS
 
 ## :flags: Inglês
