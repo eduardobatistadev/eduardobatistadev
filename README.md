@@ -9,6 +9,7 @@
 - 💬 Estou alinhado para trabalhar com desenvolvimento de sistemas, e utilizando Java e angular como stack onde fiz um treinamento intensivo pela atual empresa com resolução de desafios, que estão hospedados aqui no github para consulta.
 
 ## :muscle: Competências
+- Salesforce
 - Java
 - Spring Boot
 - Hibernate/JPA
