@@ -2,19 +2,14 @@
 
 ## 🧐 Um Pouco sobre mim:
 
-- 🔭 Atualmente trabalho como Programador I em desenvolvimento Salesforce.
+- 🔭 Atualmente trabalho como Salesforce Engineer.
 
 - 🌱 Formado em Análise e Desenvolvimento de Sistemas
 
-- 💬 Estou alinhado para trabalhar com desenvolvimento de sistemas, e utilizando Java e angular como stack onde fiz um treinamento intensivo pela atual empresa com resolução de desafios, que estão hospedados aqui no github para consulta.
-
 ## :muscle: Competências
-- Salesforce
-- Java
-- Spring Boot
-- Hibernate/JPA
-- Angular
-- HTML/CSS
+- APEX
+- Lightning Web Components
+- Html, Css e JS
 
 ## :flags: Inglês
 - Escrita: :white_large_square: :white_large_square: :white_check_mark: :white_large_square: :white_large_square:
